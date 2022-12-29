@@ -112,17 +112,17 @@ figure figcaption {
 
 ::-webkit-selection {
 	color: #fff;
-	background: #2c98f0;
+	background: #fff;
 }
 
 ::-moz-selection {
 	color: #fff;
-	background: #2c98f0;
+	background: #fff;
 }
 
 ::selection {
 	color: #fff;
-	background: #2c98f0;
+	background: #fff;
 }
 
 #colorlib-page {
