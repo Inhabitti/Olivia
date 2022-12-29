@@ -51,7 +51,7 @@ export default {
 				image: "images/programmingdiaries.png",
 				summary:
 					"Test Cases that I wrote and used in work.",
-				preview: "/posts/QA-Projects.md",
+				preview: "/posts/TC.html",
 				techStack: [
 					"QA",
 					"TC",
