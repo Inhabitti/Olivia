@@ -654,7 +654,7 @@ body.offcanvas .colorlib-nav-toggle {
 
 .hire {
 	padding: 2em;
-	background: #f9bf3f;
+	background: #ff9999;
 	color: #000;
 	border-radius: 4px;
 }
@@ -818,7 +818,7 @@ body.offcanvas .colorlib-nav-toggle {
 	position: absolute;
 	display: block;
 	width: 4px;
-	background: #f9bf3f;
+	background: #ff9999;
 	top: 20px;
 	bottom: 20px;
 	margin-left: 29px;
@@ -864,7 +864,7 @@ body.offcanvas .colorlib-nav-toggle {
 	.timeline-entry
 	.timeline-entry-inner
 	.timeline-icon.color-3 {
-	background: #f9bf3f;
+	background: #ff9999;
 }
 .timeline-centered
 	.timeline-entry
@@ -890,7 +890,7 @@ body.offcanvas .colorlib-nav-toggle {
 
 .timeline-centered .timeline-entry .timeline-entry-inner .timeline-label {
 	position: relative;
-	background: #f9bf3f;
+	background: #ff9999;
 	color: #000;
 	padding: 1.5em;
 	margin-left: 60px;
@@ -1076,7 +1076,7 @@ body.offcanvas .colorlib-nav-toggle {
 	border-color: #ec5453 transparent transparent transparent;
 }
 .services.color-3 .icon {
-	background: #f9bf3f;
+	background: #ff9999;
 }
 .services.color-3 .icon:before {
 	border-color: transparent transparent #f9bf3f transparent;
