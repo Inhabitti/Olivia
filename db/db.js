@@ -51,7 +51,7 @@ export default {
 				image: "images/programmingdiaries.png",
 				summary:
 					"Test Cases that I wrote and used in work.",
-				preview: "https://programmingdiaries.herokuapp.com/",
+				preview: "/posts/TC.md",
 				techStack: [
 					"QA",
 					"TC",
