@@ -83,117 +83,34 @@ export default {
 				techStack: ["HTML", "Bootstrap", "JavaScript"],
 			},
 		],
-		software: [
-			{
-				projectName: "Pizza Ordering ChatBot",
-				image: "images/pizzaorderchatbot.png",
-				summary:
-					"ChatBot using Dialogflow, Firebase database which stores the chat data in the realtime database.",
-				preview:
-					"https://github.com/vinaysomawat/Pizza-Ordering-ChatBot",
-				techStack: ["Dailogflow", "Firebase"],
-			},
-			{
-				projectName: "WhatsApp-Bot",
-				image: "images/whatsappbot.jpg",
-				summary:
-					"Python script which helps to send messages to WhatsApp contacts automatically using selenium and web automation.",
-				preview: "https://github.com/vinaysomawat/WhatsApp-Bot",
-				techStack: ["Selenium", "Chrome Webdriver", "Python"],
-			},
-			{
-				projectName: "Bill Generator",
-				image: "images/billgenerator.png",
-				summary:
-					"GUI to transfer data to excel sheets and generate bills on the local shops.",
-				preview: "https://github.com/vinaysomawat/Bill-Generator",
-				techStack: ["Tkinter", "Openxlpy", "Python"],
-			},
-		],
-		android: [
-			{
-				projectName: "NITW-CSE",
-				image: "images/nitwcse.jpg",
-				summary:
-					"The Application display details of Department courses, reference books, research, publication and faculty profile.",
-				preview: "https://github.com/vinaysomawat/NITW-CSE",
-				techStack: ["JAVA", "XML", "Android"],
-			},
-			{
-				projectName: "CareerHigh-App",
-				image: "images/carrerhigh.png",
-				summary:
-					"The Application display the webpages of website careerhigh.in in android devices.",
-				preview: "https://github.com/vinaysomawat/CareerHigh-Android",
-				techStack: ["JAVA", "XML", "Android"],
-			},
-		],
-		freelance: [
-			{
-				projectName: "SnylloAir.com",
-				image: "images/snylloair.png",
-				summary:
-					"Developed a company website to showcase the purpose, services and products provided by the company to audience.",
-				preview: "https://www.snylloair.com/",
-				techStack: ["Bootstrap", "JavaScript", "AWS-S3"],
-			},
-			{
-				projectName: "Delivery+",
-				image: "images/AM-Logo-.png",
-				summary:
-					"Android Application to display website in android devices.",
-				preview:
-					"https://play.google.com/store/apps/details?id=com.americanmarket.americanmarketandroid",
-				techStack: ["Android", "JAVA", "Play Store"],
-			},
-		],
-	},
 	experience: [
 		{
-			title: "Biofourmis India Pvt. Ltd.",
-			duration: "April 2022 - Present",
-			subtitle: "Software Engineer",
+			title: "NPIXEL",
+			duration: "December 2021 - Present",
+			subtitle: "Game QA",
 			details: [
-				"Working on the products in the healthcare/digital therapeutics domain."
+				"Working as a Develop-QA."
 			],
 			tags: [
-				"JavaScript",
-				"Angular",
-				"Bootstrap",
-				"Nodejs",
+				"Jira",
+				"SVN",
 				"Jenkins",
 			],
 			icon: "heartbeat",
 		},
 		{
-			title: "Novopay Solutions Pvt. Ltd.",
-			duration: "June 2020 - April 2022",
-			subtitle: "Software Engineer",
+			title: "Golfzon Networks",
+			duration: "October 2020 - July 2021",
+			subtitle: "Software QA",
 			details: [
-				"Implemented Aadhaar Enabled Payment services such as Bio-metric eKYC, Cash Withdrawal, Balance Enquiry, Mini-Statements, and Money transfer; completed more than 20 story points in each sprint.",
-				"Integrated QR Code and reduced the effective time by 50 percent to load money into wallet, Clevertap events to track user actions, Freshdesk ticketing service and chat-bot services. Worked on user onboarding, approval, and finance interfaces.",
-				"Co-ordinated closely with the product team, backend team, android team, and QA team to deliver the product builds before deadlines.",
+				"Software QA Engineer that handle BTS and entire develop process.",
 			],
 			tags: [
-				"JavaScript",
-				"Angular",
-				"React",
-				"Bootstrap",
-				"Nodejs",
-				"Jenkins",
+				"Python",
+				"ALM/BTS",
+				"SVN",,
 			],
 			icon: "qrcode",
-		},
-		{
-			title: "ThinkPedia LLP",
-			duration: "May 2019 - June 2019",
-			subtitle: "SDE Intern",
-			details: [
-				"Worked as a full stack developer to support tech team.",
-				"Developed a customer Web Application from scratch for social media management.",
-			],
-			tags: ["JavaScript", "Angular", "Bootstrap", "Java", "Spring Boot"],
-			icon: "group",
 		},
 	],
 	education: [
@@ -230,53 +147,11 @@ export default {
 	],
 	footer: [
 		{
-			label: "Dev Profiles",
-			data: [
-				{
-					text: "Stackoverflow",
-					link: "https://stackoverflow.com/users/8461233/vinay-somawat",
-				},
-				{
-					text: "GitHub",
-					link: "https://github.com/vinaysomawat",
-				},
-				{
-					text: "LeetCode",
-					link: "https://leetcode.com/somawatvinay/",
-				},
-			],
-		},
-		{
-			label: "Resources",
-			data: [
-				{
-					text: "Enable Dark/Light Mode",
-					func: "enableDarkMode()",
-				},
-				{
-					text: "Print this page",
-					func: "window.print()",
-				},
-				{
-					text: "Clone this page",
-					link: "https://github.com/vinaysomawat/vinaysomawat.github.io",
-				},
-			],
-		},
-		{
 			label: "Social Profiles",
 			data: [
 				{
 					text: "Linkedin",
-					link: "https://www.linkedin.com/in/vinaysomawat/",
-				},
-				{
-					text: "Twitter",
-					link: "https://twitter.com/thesigmakid",
-				},
-				{
-					text: "Buy me a coffee",
-					link: "https://www.buymeacoffee.com/r194dME8y",
+					link: "https://www.linkedin.com/in/%EB%B3%B4%EC%9D%B8-%EC%9D%B4-502771251/",
 				},
 			],
 		},
