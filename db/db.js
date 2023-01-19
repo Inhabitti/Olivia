@@ -162,6 +162,6 @@ export default {
 				"Made with &hearts; by Vinay Somawat.",
 				"&copy; No Copyrights. Feel free to use this template."
 			],
-		}
-};
-		
+	}
+	],
+}
