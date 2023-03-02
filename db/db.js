@@ -47,11 +47,11 @@ export default {
 	projects: {
 		web: [
 			{
-				projectName: "Launcher TC",
+				projectName: "TC",
 				image: "/images/fds.jpg",
 				summary:
 					"Game Launcher and Downloading Flow Test Case.",
-				preview: "/posts/TC-1.html",
+				preview: "../posts/QA-Projects.md",
 				techStack: [
 					"QA",
 					"TC",
