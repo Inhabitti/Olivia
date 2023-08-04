@@ -51,100 +51,12 @@ export default {
 				image: "/images/fds.jpg",
 				summary:
 					"Game Launcher and Downloading Flow Test Case.",
-				preview: "../posts/QA-Projects.md",
+				preview: "https://inhabitti.github.io/TC/",
 				techStack: [
 					"QA",
 					"TC",
 					"Confluence",
 				],
-			},
-			{
-				projectName: "Game Analysis",
-				image: "images/findyourbank.png",
-				summary:
-					"Game Analyzes",
-				preview: "https://clever-fermi-0d5d76.netlify.app",
-				techStack: ["Analysis", "Game Contents"],
-			},
-			{
-				projectName: "Proposal",
-				image: "images/portfolio.png",
-				summary:
-					"Proposals that used to propose new tools, contents, etc.",
-				preview: "https://github.com/vinaysomawat/Travographer-Portal",
-				techStack: ["Game", "Proposal", "DevTool"],
-			},
-			{
-				projectName: "Other",
-				image: "images/resume-builder.png",
-				summary:
-					"Browser based editor to build and download Resumes in a customizable templates.",
-				preview: "https://vinaysomawat.github.io/Resume-Builder",
-				techStack: ["HTML", "Bootstrap", "JavaScript"],
-			},
-		],
-		software: [
-			{
-				projectName: "Pizza Ordering ChatBot",
-				image: "images/pizzaorderchatbot.png",
-				summary:
-					"ChatBot using Dialogflow, Firebase database which stores the chat data in the realtime database.",
-				preview:
-					"https://github.com/vinaysomawat/Pizza-Ordering-ChatBot",
-				techStack: ["Dailogflow", "Firebase"],
-			},
-			{
-				projectName: "WhatsApp-Bot",
-				image: "images/whatsappbot.jpg",
-				summary:
-					"Python script which helps to send messages to WhatsApp contacts automatically using selenium and web automation.",
-				preview: "https://github.com/vinaysomawat/WhatsApp-Bot",
-				techStack: ["Selenium", "Chrome Webdriver", "Python"],
-			},
-			{
-				projectName: "Bill Generator",
-				image: "images/billgenerator.png",
-				summary:
-					"GUI to transfer data to excel sheets and generate bills on the local shops.",
-				preview: "https://github.com/vinaysomawat/Bill-Generator",
-				techStack: ["Tkinter", "Openxlpy", "Python"],
-			},
-		],
-		android: [
-			{
-				projectName: "NITW-CSE",
-				image: "images/nitwcse.jpg",
-				summary:
-					"The Application display details of Department courses, reference books, research, publication and faculty profile.",
-				preview: "https://github.com/vinaysomawat/NITW-CSE",
-				techStack: ["JAVA", "XML", "Android"],
-			},
-			{
-				projectName: "CareerHigh-App",
-				image: "images/carrerhigh.png",
-				summary:
-					"The Application display the webpages of website careerhigh.in in android devices.",
-				preview: "https://github.com/vinaysomawat/CareerHigh-Android",
-				techStack: ["JAVA", "XML", "Android"],
-			},
-		],
-		freelance: [
-			{
-				projectName: "SnylloAir.com",
-				image: "images/snylloair.png",
-				summary:
-					"Developed a company website to showcase the purpose, services and products provided by the company to audience.",
-				preview: "https://www.snylloair.com/",
-				techStack: ["Bootstrap", "JavaScript", "AWS-S3"],
-			},
-			{
-				projectName: "Delivery+",
-				image: "images/AM-Logo-.png",
-				summary:
-					"Android Application to display website in android devices.",
-				preview:
-					"https://play.google.com/store/apps/details?id=com.americanmarket.americanmarketandroid",
-				techStack: ["Android", "JAVA", "Play Store"],
 			},
 		],
 	},
